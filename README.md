@@ -1,4 +1,4 @@
-# Simple React Start Kit 2017
+# react_challenge_flex_panel_gallery
 
 React JS 製作出來的開合相簿動畫，點擊不同的圖片會張開，並且透過 css animation 來讓文字掉下來
 
@@ -21,7 +21,7 @@ React JS 製作出來的開合相簿動畫，點擊不同的圖片會張開，�
 先確定好安裝了 node 4.5 以上的版本，接著就可以輸入以下指令
 
 ```bash
-$ git clone https://github.com/ReactMaker/simple_react_start_kit_2017
+$ git clone https://github.com/ReactMaker/react_challenge_flex_panel_gallery
 $ cd simple_react_start_kit_2017
 $ npm install                   # Install project dependencies
 $ npm start                     # Compile and launch
