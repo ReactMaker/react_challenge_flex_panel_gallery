@@ -22,7 +22,7 @@ React JS 製作出來的開合相簿動畫，點擊不同的圖片會張開，�
 
 ```bash
 $ git clone https://github.com/ReactMaker/react_challenge_flex_panel_gallery
-$ cd simple_react_start_kit_2017
+$ cd react_challenge_flex_panel_gallery
 $ npm install                   # Install project dependencies
 $ npm start                     # Compile and launch
 ```
